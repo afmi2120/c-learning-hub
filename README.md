@@ -50,3 +50,18 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run Home.py
+
+#🚧 Roadmap
+[x] Basic Variables & Memory (Vol.1)
+
+[x] Pointer Visualization Lab (Vol.2)
+
+[ ] Arrays & Address Arithmetic (Vol.3) - Coming Soon
+
+[ ] Quiz Mode with AI feedback
+
+#🤝 Contribution
+バグ報告、機能提案、大歓迎です！ Pull requests are welcome.
+
+Created by afmi
+
