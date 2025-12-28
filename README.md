@@ -51,7 +51,7 @@ pip install -r requirements.txt
 # Run the app
 streamlit run Home.py
 
-#🚧 Roadmap
+🚧 Roadmap
 [x] Basic Variables & Memory (Vol.1)
 
 [x] Pointer Visualization Lab (Vol.2)
